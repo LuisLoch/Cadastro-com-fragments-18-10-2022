@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cadastro15102022</string>
+    <string name="produtos_main">Produtos</string>
+    <string name="clientes_main">Clientes</string>
+    <string name="fornecedores_main">Fornecedores</string>
+    <string name="produtos_produto">Produtos</string>
+    <string name="stringListarProdutos">LISTAR</string>
+    <string name="stringAddProduto">ADICIONAR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stringAddCliente">Adicionar cliente</string>
+    <string name="stringListarClientes">Listar clientes</string>
+    <string name="cliente">Cliente</string>
+    <string name="stringListarFornecedores">Listar fornecedores</string>
+    <string name="stringAddFornecedor">Adicionar fornecedor</string>
+    <string name="fornecedor">Fornecedor</string>
+</resources>
